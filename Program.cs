@@ -6,11 +6,8 @@ namespace teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter with number of matriz: ");
-            int n = int.Parse(Console.ReadLine());
-            int vl = (n < 10) ? n * 2 : n + 10;
-
-            Console.WriteLine(vl);
+            Console.WriteLine("ola mundo");
+            Console.WriteLine("boa tarde");
 
         }
     }
